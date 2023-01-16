@@ -1,10 +1,12 @@
 ![Fernando GitHub Banner](./assets/banner.png)
 
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+Hola! Soy Fernando Daniel Zigarra, un Desarrollador Web Full Stack. Graduado del curso Programador Web Full Stack en Digital House en conjunto con Fundación formar. Se realizo un proyecto integrador a lo largo de todo el trayecto del curso el cual duró 7 meses, dicho proyecto constaba en una simulación de un proyecto real con la metodología ágil SCRUM. Todo el proceso de formación fue complementado con habilidades blandas(soft skills).
+Me gusta mucho aprender todo lo relacionado al rubro IT, tanto nuevas tecnologías como metodologías de trabajo. 
 
 ## Hard skills:
 * [![Nodejs][Nodejs.org]][Nodejs-url]
