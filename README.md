@@ -35,7 +35,7 @@ Link tablero TRELLO: [Tablero TRELLO](https://trello.com/b/DAyvv4g3/grupo-5-vive
 [issues-url]: https://github.com/DiCerso/grupo_5_Vive-Bio/issues
 [license-shield]: https://img.shields.io/github/license/DiCerso/grupo_5_Vive-Bio.svg?style=for-the-badge
 [license-url]: https://github.com/DiCerso/grupo_5_Vive-Bio/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/fernando-zigarra-846980212
 [product-screenshot]: images/screenshot.png
 [javascript.js]: https://img.shields.io/badge/Javascript-35495E?style=for-the-badge&logo=javascript&logoColor=F1C232
