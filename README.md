@@ -25,7 +25,8 @@ Link tablero TRELLO: [Tablero TRELLO](https://trello.com/b/DAyvv4g3/grupo-5-vive
 
 
 ## Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FernandoDanielZigarra&theme=vue-dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FernandoDanielZigarra)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoDanielZigarra)](https://github.com/anuraghazra/github-readme-stats)
 
