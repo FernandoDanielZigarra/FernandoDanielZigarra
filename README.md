@@ -22,8 +22,12 @@ Link tablero TRELLO: [Tablero TRELLO](https://trello.com/b/DAyvv4g3/grupo-5-vive
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![Tailwindcss][Tailwindcss.js]][Tailwindcss-url]
 
+
+
 ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FernandoDanielZigarra&theme=vue-dark)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiFernandoDanielZigarraanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [contributors-shield]: https://img.shields.io/github/contributors/DiCerso/grupo_5_Vive-Bio.svg?style=for-the-badge
 [contributors-url]: https://github.com/DiCerso/grupo_5_Vive-Bio/graphs/contributors
