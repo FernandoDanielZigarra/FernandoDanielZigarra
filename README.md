@@ -22,7 +22,9 @@ Link tablero TRELLO: [Tablero TRELLO](https://trello.com/b/DAyvv4g3/grupo-5-vive
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![Tailwindcss][Tailwindcss.js]][Tailwindcss-url]
 
+## Soft skills:
 
+SCRUM
 
 ## Stats
 
