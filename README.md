@@ -36,7 +36,7 @@
 ![Jira Software Badge](https://img.shields.io/badge/Jira%20Software-0052CC?logo=jirasoftware&logoColor=fff&style=for-the-badge)
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="center" style="display: flex; justify-content: center; align-items: start; gap: 2rem">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=FernandoDanielZigarra&show_icons=true&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoDanielZigarra&layout=compact&theme=radical" >
 </p>
