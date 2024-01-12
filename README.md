@@ -13,7 +13,6 @@
 👯 &nbsp;I’m looking to collaborate on Proyectos.\
 💬 &nbsp;Ask me about Programming or QA Testing
 
-
 ### 🛠 &nbsp;Tech Stack
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -35,11 +34,15 @@
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![Jira Software Badge](https://img.shields.io/badge/Jira%20Software-0052CC?logo=jirasoftware&logoColor=fff&style=for-the-badge)
 
+<br>
+<br>
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=FernandoDanielZigarra&show_icons=true&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoDanielZigarra&layout=compact&theme=radical" >
-</p>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 [![LinkedIn][linkedin-shield]][linkedin-url]
