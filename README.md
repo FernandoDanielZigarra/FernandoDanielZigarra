@@ -7,7 +7,6 @@
 [![Stargazers][stars-shield]][stars-url]
 
 ### 👨🏻‍💻 &nbsp;About Me
-🔭 &nbsp;I’m currently working on [FORIT Software Factory](https://www.linkedin.com/company/forit-software-factory).\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I’m currently learning Web Development and other programming languages.\
 👯 &nbsp;I’m looking to collaborate on Proyectos.\
