@@ -1,4 +1,3 @@
-
 <h1 style="text-align: center;"> Hi! I'm <a href="https://porfolio-fernando-zigarra.vercel.app/">Fernando Daniel Zigarra 👋</a></h1>
 <img src="./assets/banner.png" style="width: 100%;object-fit: cover"/>
 
@@ -6,34 +5,70 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 
-### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I’m currently learning Web Development and other programming languages.\
-👯 &nbsp;I’m looking to collaborate on Proyectos.\
-💬 &nbsp;Ask me about Programming or QA Testing
+### 👨🏻‍💻 &nbsp;Professional Profile
+
+💡 &nbsp;Full Stack Web Developer with experience in **React, Next.js, TypeScript, TailwindCSS, and GraphQL**.  
+🚀 &nbsp;Passionate about **scalable and efficient development**, focusing on **TDD and Agile (Scrum)**.  
+🔧 &nbsp;Experience in **Docker deployments, GitHub version control, and Jira project management**.  
+📌 &nbsp;Strong problem-solving skills and workflow optimization in **agile development environments**.
+
+<img alt="Night Coding" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
+
+</br>
 
 ### 🛠 &nbsp;Tech Stack
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
- [![Nodejs][Nodejs.org]][Nodejs-url]
- [![html5][html5.com]][html5-url]
- [![css3][css3.com]][css3-url]
- [![Javascript.js]][Javascript-url]
- ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
- ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
- ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
- [![React][React.js]][React-url]
- ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
- [![MySql][MySql.io]][MySql-url]
- ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
- ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
- ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/SCRUM-scrum?style=for-the-badge&link=https%3A%2F%2Fwww.scrum.org)
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-![Jira Software Badge](https://img.shields.io/badge/Jira%20Software-0052CC?logo=jirasoftware&logoColor=fff&style=for-the-badge)
+**Programming Languages:**
 
-<br>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-35495E?logo=javascript&logoColor=F1C232&style=for-the-badge">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge">
+</p>
+
+**Frontend:**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML5-ff821e?logo=html5&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/CSS3-0769AD?logo=css3&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge">
+</p>
+
+**Backend:**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge">
+</p>
+
+**Databases:**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4A4A55?logo=mysql&logoColor=88c6ff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge">
+</p>
+
+**Testing & Development Practices:**
+
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/TDD-Test%20Driven%20Development-red?style=for-the-badge">
+</p>
+
+**Tools & Platforms:**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Jira%20Software-0052CC?logo=jirasoftware&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/CI/CD-4CAF50?logo=githubactions&logoColor=fff&style=for-the-badge">
+</p>
 <br>
 <br>
 
@@ -42,13 +77,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=FernandoDanielZigarra&show_icons=true&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoDanielZigarra&layout=compact&theme=radical" >
 
-
 ### 🤝🏻 &nbsp;Connect with Me
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <a href="mailto:fernando.zigarra@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
 
 [contributors-shield]: https://img.shields.io/github/contributors/DiCerso/grupo_5_Vive-Bio.svg?style=for-the-badge
 [contributors-url]: https://github.com/DiCerso/grupo_5_Vive-Bio/graphs/contributors
